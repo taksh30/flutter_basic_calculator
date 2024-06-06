@@ -1,6 +1,7 @@
 # calculator
 
-A new Flutter project.
+This is a basic calculator with addition, subtraction, multiplication & division functionality.
+Check out the UI design.
 
 ## Getting Started
 
